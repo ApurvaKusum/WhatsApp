@@ -68,4 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# WhatsApp
+# WhatsApp Features
+1)This contains a google firebase authentication for login .
+2)You can create your own chat room.
+3)You can see the date and time of message sent and received. 
+4)You can see the last seen of the person as well.
